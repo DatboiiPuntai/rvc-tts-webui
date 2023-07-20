@@ -1,0 +1,13 @@
+00000.wav|North East section. Got it. You mean there's more?
+00001.wav|And that is. Is that all? Understood. Beginning my approach to the target.
+00002.wav|Major, this is snake. Sokolov is safe with me. He's doing fine. No injuries.
+00003.wav|Roger, I had to kill them. There was no other way. But no one will know we were involved.
+00004.wav|I put them to sleep. Nice and clean. No one spotted me. I managed to get past them.
+00005.wav|What about the boss? What happened? Major, do you read me? I've run into a few snags.
+00006.wav|These guys were after Sokolov, too. Apparently, they were taking orders from a GRU colonel named Volgin.
+00007.wav|Part of an internal Soviet power struggle, according to Sokolov.
+00008.wav|Something between the KGB and GRU, between Khrushchev's supporters and Volgin's. I don't like it.
+00009.wav|Something about the whole thing stinks. Sokolov ran off by himself, but I'll catch up to him.
+00010.wav|This is snake. Do you read me? I got blown pretty far off target.
+00011.wav|Eliminate the boss. Because I'll be taking on the boss and our cobra unit, right? I'm not a hired killer.
+00012.wav|Demand? You mean it wasn't just a request?

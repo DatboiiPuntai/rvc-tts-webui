@@ -6,5 +6,7 @@ gradio_client==0.2.9
 librosa==0.9.1
 numpy==1.23.5
 praat-parselmouth==0.4.3
-pyworld==0.3.3
+pyworld==0.3.2
 torchcrepe==0.0.20
+transformers
+TTS
